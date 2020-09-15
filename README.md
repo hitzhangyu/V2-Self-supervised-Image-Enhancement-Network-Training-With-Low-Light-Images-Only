@@ -5,10 +5,11 @@ before:
 
 ![image_before](https://github.com/hitzhangyu/V2-Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only/blob/master/2before.png)
 
-now:
+method1 now:
 
 ![image_after](https://github.com/hitzhangyu/V2-Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only/blob/master/2after.png)
 
+method2 now:
 
 ![image1](https://github.com/hitzhangyu/V2-Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only/blob/master/eval_Decom_1_8000.png)
 ![image2](https://github.com/hitzhangyu/V2-Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only/blob/master/eval_Decom_3_8000.png)
